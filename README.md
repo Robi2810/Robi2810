@@ -1,16 +1,23 @@
-### Hi there 👋
+###  Graph_Vishnya
 
-<!--
-**Robi2810/Robi2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m DevOps Engineer in Sberbank and HSE Computer Science student
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Faculty+of+Computer+science+student)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Jenkins, Java, Assembly, C++, C, Python, GoLang, Openshift
+- 💬 Ask me about collaborating 
+- 📫 How to reach me: rsanikin@edu.hse.ru
+  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div id="badges">
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+    </div>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
