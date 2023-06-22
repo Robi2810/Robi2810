@@ -1,8 +1,10 @@
 ###  Graph_Vishnya
 
 - 🔭 I’m DevOps Engineer in Sberbank and HSE Computer Science student
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Faculty+of+Computer+science+student)](https://git.io/typing-svg)
+
 
 - 🌱 I’m currently learning Jenkins, Java, Assembly, C++, C, Python, GoLang, Openshift
 - 💬 Ask me about collaborating 
